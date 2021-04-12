@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Benveniubbo"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ecco l'esempio più figo del mondo
